@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.70a66962.js",
+  "scripts": {
+    "deploy":"gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemonKnight94/RahulPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DemonKnight94/RahulPortfolio/issues"
+  },
+  "homepage": "https://DemonKnight94.github.io/myportfolio",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
